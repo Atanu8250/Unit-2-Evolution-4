@@ -1,0 +1,18 @@
+table {
+    height: 100px;
+    width: 80%;
+    margin: 30px auto;
+    /* border: 1px solid red; */
+  }
+
+  table>thead {
+    height: 40px;
+    color: white;
+    background-color: #007f7f;
+  }
+
+  table td,
+  table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
